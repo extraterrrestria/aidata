@@ -1,0 +1,10 @@
+ID,Name,Department,Age_25,Age_28,Age_29,Age_31,Age_32,Age_33,Age_34,Age_35,Age_40,Salary_45000,Salary_48000,Salary_52000,Salary_53000,Salary_55000,Salary_58000,Salary_60000,Salary_62000,Salary_70000
+2,Bob,Engineering,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+3,Charlie,Marketing,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+4,David,Engineering,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True
+5,Eve,HR,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+6,Frank,Marketing,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+7,Grace,Engineering,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+8,Hannah,HR,False,False,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False
+9,Ian,Marketing,False,False,False,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+10,Judy,Engineering,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False

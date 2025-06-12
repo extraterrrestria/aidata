@@ -122,6 +122,14 @@ class CSVLoader:
             return self.original_data
         logging.error("Исходные данные не загружены. Выполните загрузку перед вызовом этого метода.")
         return None
+    
+    def set_active_data(self, data):
+        """Устанавливает активный датафрейм."""
+        if isinstance(data, pd.DataFrame):
+            self.active_data = data
+            print("Активный датафрейм установлен.")
+        else:
+            print("Ошибка: Переданные данные не являются датафреймом.")
 
     def get_active_data(self) -> Optional[pd.DataFrame]:
         """
